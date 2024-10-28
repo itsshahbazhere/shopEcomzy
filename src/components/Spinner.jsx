@@ -5,7 +5,7 @@ const Spinner = () => {
     <div
       aria-label="Loading..."
       role="status"
-      className="flex space-x-2 justify-center items-center mt-[40%]"
+      className="flex space-x-2 justify-center items-center mt-[10%]"
     >
       <svg
         className="h-8 w-8 animate-spin stroke-gray-500"
